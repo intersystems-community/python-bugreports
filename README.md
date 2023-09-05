@@ -6,4 +6,7 @@ Embedded Python is a feature of InterSystems IRIS data platform that gives you t
 Learn more about [Embedded Python here]([url](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_epython)https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_epython).
 
 ## Other Resources
+Here is [Embedded Python template]([url](https://openexchange.intersystems.com/package/iris-embedded-python-template)) to start with.
+There are more [other examples with python and InterSystems IRIS]([url](https://openexchange.intersystems.com/?python=1)).
 You are more than welcome to discuss Embedded Python issues and features on [InterSystems Developer Community](community.intersystems.com), there is a dedicated [Embedded Python tag]([url](https://community.intersystems.com/tags/embedded-python)https://community.intersystems.com/tags/embedded-python).
+
