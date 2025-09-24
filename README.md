@@ -1,6 +1,6 @@
 # python-bugreports
 We love python and want python developers be successful with InterSystems products.
-Please submit bugs you found in Embedded Python and Python API offerings here and InterSystems team will solve it ASAP!
+Please submit bugs you found in Embedded Python and Python API offerings here so we could investigate and follow up!
 
 ## What is Embedded Python?
 Embedded Python is a feature of InterSystems IRIS data platform that gives you the option to develop and work with all the feautures of InterSystems IRIS in python.
